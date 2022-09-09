@@ -67,7 +67,6 @@ int main(){
    // %.1 = decimal precision
    // %1 = minimum field width
    // %- = left align
-   
 
    return 0;
 }
